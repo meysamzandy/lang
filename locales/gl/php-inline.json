@@ -11,6 +11,7 @@
     "array": "Este campo debe ser un array.",
     "ascii": "Este campo só debe conter caracteres e símbolos alfanuméricos dun só byte.",
     "attached": "Neste campo xa está conectado.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "Esta debe ser unha data antes de :date.",
     "before_or_equal": "Esta debe ser unha data antes ou igual a :date.",
     "between.array": "This content must have between :min and :max items.",
