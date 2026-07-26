@@ -11,6 +11,7 @@
     "array": "بۇ ساھە چوقۇم بىر سانلار گۇرپىسى بولۇشى كېرەك.",
     "ascii": "بۇ ساھەدە پەقەت بىرلا بايىتلىق ھەرپ-بەلگىلەر ۋە بەلگىلەر بولۇشى كېرەك.",
     "attached": "بۇ ساھە ئاللىقاچان باغلانغان.",
+    "base64": "This field must be a valid Base64 string.",
     "before": "This must be a date before :date.",
     "before_or_equal": "This must be a date before or equal to :date.",
     "between.array": "This content must have between :min and :max items.",
