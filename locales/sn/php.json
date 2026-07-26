@@ -11,6 +11,7 @@
     "array": "Iyo :attribute inofanira kunge iri hurongwa.",
     "ascii": "Chikamu chegumi chinongofanira kuva ne-single-byte alphanumeric characters nezviratidzo.",
     "attached": "Iyi gumi yakatobatanidzwa.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": "Iwo gumi anofanira kunge ari zuva risati rasvika makumi maviri.",
     "before_or_equal": "Iwo gumi anofanira kunge ari zuva risati rasvika kana rakaenzana ne:date.",
     "between.array": "Iwo gumi anofanira kunge aine zvinhu zviri pakati pe:min ne:max.",
