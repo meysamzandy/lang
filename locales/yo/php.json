@@ -11,6 +11,7 @@
     "array": "Awọn :attribute gbọdọ jẹ ohun orun.",
     "ascii": "Aaye :attribute gbọdọ ni awọn ohun kikọ alphanumeric-baiti kan ṣoṣo ati awọn aami.",
     "attached": ":attribute yii ti somọ tẹlẹ.",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":attribute naa gbọdọ jẹ ọjọ kan ṣaaju :date.",
     "before_or_equal": ":attribute naa gbọdọ jẹ ọjọ ṣaaju tabi dọgba si :date.",
     "between.array": "Awọn :attribute gbọdọ ni laarin :min ati :max awọn ohun kan.",
