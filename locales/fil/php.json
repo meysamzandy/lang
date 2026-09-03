@@ -9,6 +9,7 @@
     "alpha_num": "Mag titik, numero, gitlling at underscore lang dapat ang nilalaman ng :attribute.",
     "any_of": "The :attribute field is invalid.",
     "array": "Dapat na isang array ang :attribute.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ang :attribute ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang :attribute na ito ay nakakabit na.",
     "base64": "The :attribute field must be a valid Base64 string.",
