@@ -9,6 +9,7 @@
     "alpha_num": ":Attribute фақат ҳарфлар ва сонларни қабул қилиши мумкин.",
     "any_of": "The :attribute field is invalid.",
     "array": ":Attribute қатордан иборат бўлиши керак.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute faqat bitta baytli alfanumerik belgilar va belgilarni o'z ichiga olishi kerak.",
     "attached": "Bu :attribute allaqachon biriktirilgan.",
     "base64": "The :attribute field must be a valid Base64 string.",
