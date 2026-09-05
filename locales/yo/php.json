@@ -9,6 +9,7 @@
     "alpha_num": ":attribute naa gbọdọ ni awọn lẹta ati awọn nọmba nikan ninu.",
     "any_of": "The :attribute field is invalid.",
     "array": "Awọn :attribute gbọdọ jẹ ohun orun.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Aaye :attribute gbọdọ ni awọn ohun kikọ alphanumeric-baiti kan ṣoṣo ati awọn aami.",
     "attached": ":attribute yii ti somọ tẹlẹ.",
     "base64": "The :attribute field must be a valid Base64 string.",
